@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "New title"
+title                    : "Perpetual wonder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Paul R. Kaneelil"
@@ -105,17 +105,17 @@ analytics:
 # Site Author
 author:
   name             : "Paul R. Kaneelil"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/paulkaneelil0.jpg"
   bio              : "Postdoctoral Research Fellow at Harvard Univeristy"
   location         : Cambridge, MA
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "mailto:pkaneelil@g.harvard.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=9TdPmXwAAAAJ&hl=en&inst=10749622055976013885"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -282,7 +282,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
