@@ -287,4 +287,4 @@ defaults:
       layout: single
 
 header:
-  teaser: "/assets/images/yosemiteBW.jpg"
+  image: /assets/images/yosemiteBW.jpg
