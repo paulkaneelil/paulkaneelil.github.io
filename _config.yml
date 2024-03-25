@@ -284,6 +284,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-    header:
-      image: /assets/images/yosemiteBW.jpg
+      layout: splash
+    
+header:
+  image: /assets/images/yosemiteBW.jpg
