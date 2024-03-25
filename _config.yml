@@ -285,6 +285,5 @@ defaults:
       type: pages
     values:
       layout: single
-
-header:
-  image: /assets/images/yosemiteBW.jpg
+    header:
+      image: /assets/images/yosemiteBW.jpg
