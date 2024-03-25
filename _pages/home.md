@@ -3,9 +3,10 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/yosemiteBW.jpg
+  caption: "Yosemite valley"
 
-excerpt: >
-  This is the first line.<br />
+excerpt:
+  Welcome. You're the first one here!<br />
 
 
 # feature_row:
