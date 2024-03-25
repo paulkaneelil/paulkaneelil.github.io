@@ -286,5 +286,3 @@ defaults:
     values:
       layout: splash
     
-header:
-  image: /assets/images/yosemiteBW.jpg
