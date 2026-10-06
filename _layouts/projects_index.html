@@ -1,0 +1,10 @@
+---
+layout: single
+---
+{{ content }}
+<div class="project-grid">
+  {% assign items = site.projects | sort: "weight" %}
+  {% for p in items %}
+    {% include project-card.html p=p %}
+  {% endfor %}
+</div>

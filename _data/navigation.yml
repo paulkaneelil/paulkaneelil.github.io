@@ -1,12 +1,11 @@
-# main links
 main:
-  - title: "Home"
+  - title: Home
     url: /
-  - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: Research
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
