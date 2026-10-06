@@ -51,9 +51,7 @@ author:
     - label: Google Scholar
       icon: ai ai-google-scholar
       url: https://scholar.google.com/citations?user=9TdPmXwAAAAJ&hl=en
-    - label: GitHub
-      icon: fab fa-fw fa-github
-      url: https://github.com/paulkaneelil
+
 
 footer:
   links: []
