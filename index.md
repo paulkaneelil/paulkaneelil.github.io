@@ -6,7 +6,9 @@ classes: home-center
 ---
 
 <!-- introduction. -->
-I am a Postdoctoral Research Fellow in the School of Engineering and Applied Sciences at Harvard University, working with Prof. L. Mahadevan FRS, with a joint appointment as a Research Fellow in Cardiac Surgery at the Boston Children's Hospital, working with Dr. Sitaram Emani MD. I earned my PhD in Mechanical and Aerospace Engineering at Princeton University, where I worked with Prof. Howard A. Stone. Write two or three sentences here about your background and the path that led you to your current research.
+I am a Postdoctoral Fellow in the School of Engineering and Applied Sciences at Harvard University, working with Prof. L. Mahadevan FRS, with a joint appointment as a Research Fellow in Cardiac Surgery at the Boston Children's Hospital, working with Dr. Sitaram Emani MD. 
+
+I earned my PhD in Mechanical and Aerospace Engineering at Princeton University, where I worked with Prof. Howard A. Stone, on interfacial fluid mechanics. Before that, I completed BS/MS in Mechanical Engineering and Mechanics at Drexel University.  
 
 <!-- research vision. -->
 My research focuses on **[one-line summary of your research theme]**. Use this paragraph to
