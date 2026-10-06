@@ -2,7 +2,7 @@
 # Site settings — edit these
 # ---------------------------------------------------------------
 title: Paul R. Kaneelil
-description: Postdoctoral Research Fellow at Harvard University
+description: Postdoctoral Fellow at Harvard University
 url: "https://paulkaneelil.github.io"
 baseurl: ""
 locale: en-US
@@ -42,7 +42,7 @@ defaults:
 author:
   name: Paul R. Kaneelil
   avatar: /assets/img/paulkaneelil.jpg
-  bio: "Postdoctoral Research Fellow at Harvard University"
+  bio: "Postdoctoral Fellow at Harvard University"
   location: Cambridge, MA
   links:
     - label: Email
