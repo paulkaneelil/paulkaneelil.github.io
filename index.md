@@ -1,17 +1,14 @@
 ---
 layout: single
-title: "Paul R. Kaneelil"
 permalink: /
 author_profile: true
 classes: home-center
 ---
 
-<!-- ✏️ Replace this paragraph with your own introduction. -->
-I am a Postdoctoral Research Fellow at Harvard University. Before that, I earned my PhD in
-[YOUR FIELD] at [UNIVERSITY], where I worked with [ADVISOR]. Write two or three sentences here
-about your background and the path that led you to your current research.
+<!-- introduction. -->
+I am a Postdoctoral Research Fellow in the School of Engineering and Applied Sciences at Harvard University, working with Prof. L. Mahadevan FRS, with a joint appointment as a Research Fellow in Cardiac Surgery at the Boston Children's Hospital, working with Dr. Sitaram Emani MD. I earned my PhD in Mechanical and Aerospace Engineering at Princeton University, where I worked with Prof. Howard A. Stone. Write two or three sentences here about your background and the path that led you to your current research.
 
-<!-- ✏️ Second paragraph: your research vision. -->
+<!-- research vision. -->
 My research focuses on **[one-line summary of your research theme]**. Use this paragraph to
 describe the big questions you work on, the methods you use (theory, experiments, simulations),
 and two or three highlights of what you have found.
