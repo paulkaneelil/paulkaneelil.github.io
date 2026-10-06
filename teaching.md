@@ -3,8 +3,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching Experience at [University]
 
 <!-- ✏️ Replace with your own entries. -->
-- Teaching Assistant: COURSE 101 Course Name — *Fall 20XX*
-- Teaching Assistant: COURSE 202 Course Name — *Spring 20XX*
+**Harvard University**
+- Guest Lecturer: AM 104 Complex and Fourier Analysis — *Fall 2025*
+- Teaching Fellow: GENED 1190 I Wonder Why — *Spring 2024*
+
+  
+**Princeton University**
+- Guest Lecturer: MAE 305 Differential Equations — *Fall 2022, 2023*
+- Assistant Instructor: MAE 305 Differential Equations — *Fall 2020, 2021, 2022, 2023*
+- Assistant Instructor: MAE 552 Viscous Flows and Boundary Layers — *Spring 2021*
