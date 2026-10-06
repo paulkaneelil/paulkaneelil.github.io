@@ -48,7 +48,7 @@ author:
       icon: fas fa-fw fa-envelope
       url: mailto:pkaneelil@g.harvard.edu
     - label: Google Scholar
-      icon: ai ai-google-scholar
+      icon: ai ai-fw ai-google-scholar
       url: https://scholar.google.com/citations?user=9TdPmXwAAAAJ&hl=en
 
 
