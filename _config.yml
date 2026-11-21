@@ -51,6 +51,9 @@ author:
     - label: Google Scholar
       icon: ai ai-fw ai-google-scholar
       url: https://scholar.google.com/citations?user=9TdPmXwAAAAJ&hl=en
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/paulkaneelil/
 
 
 footer:
