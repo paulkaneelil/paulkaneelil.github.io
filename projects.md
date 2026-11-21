@@ -40,7 +40,12 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 - **P. R. Kaneelil**, S. Yin, L. Mahadevan, “Pattern formation in whirling sheets and spinning skirts”, submitted.
 - S. Yin, **P. R. Kaneelil**, L. Mahadevan, “Elastohydrodynamic instability of a spinning elastic disk”, *Journal of Fluid Mechanics* (under review), [[arXiv:2607.19561](https://arxiv.org/abs/2607.19561)].
+- **P. R. Kaneelil**, K. J. Hon, D. Recco, N. Thatte, G. Diafflisio, P. E. Hammer, L. Mahadevan, S. Emani, “Parametric Engineering of Living Valve Transplants”, *Proceedings of the National Academy of Sciences* (under review), [[bioRxiv](https://doi.org/10.64898/2026.06.16.732756)].
 
 ## III. Active interfaces
 
-*Coming soon.*
+We showed that surface tension regulates the morphology of a bacterial colony growing at an air–solid interface, controlling its transition from a monolayer to a multilayer.
+
+**References:**
+
+- A. Ramachandran\*, **P. R. Kaneelil**\*, M. Black, Z. Gitai, J. Shaevitz, H. A. Stone, “Surface tension regulates the morphological evolution of a growing bacterial colony at an air–solid interface”, *Bulletin of the American Physical Society*, 67 (2022). (\*Equal contribution)
