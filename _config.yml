@@ -2,6 +2,7 @@
 # Site settings — edit these
 # ---------------------------------------------------------------
 title: Paul R. Kaneelil
+masthead_title: " "
 description: Postdoctoral Fellow at Harvard University
 url: "https://paulkaneelil.github.io"
 baseurl: ""
