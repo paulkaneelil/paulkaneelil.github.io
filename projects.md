@@ -9,7 +9,7 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 ## Fluid interfaces
 
-**How do two drops become one? **I used high-speed optical measurements and mathematical models to show that viscous drops merge in a remarkably coordinated, three-dimensional way. Add polymers, though, and the tiny “neck” joining the drops can change shape and behavior.
+**How do two drops become one?** I used high-speed optical measurements and mathematical models to show that viscous drops merge in a remarkably coordinated, three-dimensional way. Add polymers, though, and the tiny “neck” joining the drops can change shape and behavior.
 
 **Can two liquids keep their lanes?** In microchannels, flows that look perfectly orderly can suddenly lose their symmetry near an exit—making it harder to separate the liquids cleanly. Surfactants and the balance between viscosity and surface tension can also decide whether a moving fluid front stays smooth or sprouts fingers. Fluids, it turns out, don’t always follow the lane markings.
 
