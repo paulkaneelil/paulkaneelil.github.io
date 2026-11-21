@@ -1,13 +1,14 @@
 ---
 title: Research
 permalink: /projects/
+classes: research-page
 ---
 
 My research has mainly spanned three types of interfaces across a wide range of time and length scales and across fields.
 
 <!-- Each "##" line is a section heading. -->
 
-## Fluid interfaces
+## I. Fluid interfaces
 
 **How do two drops become one?** I used high-speed optical measurements and mathematical models to show that viscous drops merge in a remarkably coordinated, three-dimensional way. Add polymers, though, and the tiny “neck” joining the drops can change shape and behavior.
 
@@ -17,7 +18,7 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 ![Merging drops, the neck between coalescing drops with and without polymer, and water drops arranged on an oil surface by electric forces](/assets/img/research-fluid.png){: .research-fig }
 
-**Related publications**
+**References:**
 
 - **P. R. Kaneelil**, A. A. Pahlavan, N. Xue, H. A. Stone, “Three-dimensional self-similarity of coalescing viscous drops in the thin-film regime”, *Physical Review Letters*, 129, 144501 (2022).
 - **P. R. Kaneelil**, K. Tojo, P. Kumar Farsoiya, L. Deike, H. A. Stone, “Coalescence of viscoelastic sessile drops: the small and large contact angle limits”, *Journal of Fluid Mechanics*, 1026, A12 (2026).
@@ -26,7 +27,7 @@ My research has mainly spanned three types of interfaces across a wide range of 
 - S. McBride, F. Temprano-Coleto, **P. R. Kaneelil**, et al., “Effect of capillary number and viscosity ratio on multiphase displacement in microscale pores”, *Physical Review Fluids*, 10 (5), 054201 (2025).
 - **P. R. Kaneelil**, J. P. de Souza, G. Turk, A. A. Pahlavan, H. A. Stone, “Electrically mediated self-assembly and manipulation of drops at an interface”, *Soft Matter*, 20 (27), 5417-5424 (2024). [Invited article in the *Soft Matter Electrified* themed collection]
 
-## Elastic interfaces
+## II. Elastic interfaces
 
 **What patterns form on a spinning soft sheet?** Drawing inspiration from the patterns on a dancer's skirt as they spin, we set out to uncover the patterns on a spinning soft sheet. It can do more than simply flatten out. As the spin speed increases, a soft sheet moves through three distinct shapes—from gravity-draped to centrifugally flattened to a dramatic whirling state. In that final state, ripples travel backward even as the sheet spins forward. We mapped when each behavior appears and developed rules to predict the transitions.
 
@@ -35,11 +36,11 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 ![A spinning skirt and a whirling soft sheet; an engineered heart valve shown in diagram, in surgery, and in systole and diastole](/assets/img/research-elastic.png){: .research-fig }
 
-**Related publications**
+**References:**
 
 - **P. R. Kaneelil**, S. Yin, L. Mahadevan, “Pattern formation in whirling sheets and spinning skirts”, submitted.
 - S. Yin, **P. R. Kaneelil**, L. Mahadevan, “Elastohydrodynamic instability of a spinning elastic disk”, *Journal of Fluid Mechanics* (under review), [[arXiv:2607.19561](https://arxiv.org/abs/2607.19561)].
 
-## Active interfaces
+## III. Active interfaces
 
 *Coming soon.*

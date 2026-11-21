@@ -40,3 +40,11 @@ html { font-size: 17px; }
 
 /* Research page figures */
 .research-fig { display: block; width: 100%; max-width: 720px; margin: 1.5rem auto 2rem; }
+
+/* Research page: bigger, more prominent section headings */
+.research-page .page__content h2 {
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid #7a9cc6;
+}
