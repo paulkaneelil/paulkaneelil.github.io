@@ -5,7 +5,7 @@ permalink: /projects/
 
 My research has mainly spanned three types of interfaces across a wide range of time and length scales and across fields.
 
-<!-- Each "##" line is a section heading; each "###" line is a question/topic under it. -->
+<!-- Each "##" line is a section heading. -->
 
 ## Fluid interfaces
 
