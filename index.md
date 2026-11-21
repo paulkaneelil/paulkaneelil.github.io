@@ -11,9 +11,7 @@ I am a Postdoctoral Fellow in the School of Engineering and Applied Sciences at 
 I earned my PhD in Mechanical and Aerospace Engineering at Princeton University, where I worked with Prof. Howard A. Stone, on interfacial fluid mechanics. Before that, I completed BS/MS in Mechanical Engineering and Mechanics at Drexel University.  
 
 <!-- research vision. -->
-My research focuses on **[one-line summary of your research theme]**. Use this paragraph to
-describe the big questions you work on, the methods you use (theory, experiments, simulations),
-and two or three highlights of what you have found.
+My research focuses on **furthering our fundamental understanding of the mechanics of soft interfaces** and applies that knowledge in two directions: to engineer solutions to physiologic and surgical challenges in cardiovascular medicine, and to design and understand active and programmable soft matter.
 
 <!-- Optional: add an overview figure. Put the image in assets/img/ and uncomment the line below. -->
 <!-- ![Research overview](/assets/img/overview.png){: .overview-img } -->
