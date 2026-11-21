@@ -18,21 +18,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Research projects live in _projects/ and each gets its own page
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 defaults:
   - scope:
       path: ""
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: projects
     values:
       layout: single
       author_profile: true

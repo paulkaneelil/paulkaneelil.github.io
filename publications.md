@@ -8,6 +8,7 @@ permalink: /publications/
 <!-- Newest first. Numbers count down automatically (oldest paper = 1).
      To add a paper, put a new "1." line at the TOP of the list. -->
 
+1. L. Neville, **P. R. Kaneelil**, “Retraction of a liquid drop in a Hele-Shaw cell”, *Journal of Fluid Mechanics* (under review), [[arXiv:2610.19056](https://arxiv.org/abs/2610.19056)].
 1. S. Yin, **P. R. Kaneelil**, L. Mahadevan, “Elastohydrodynamic instability of a spinning elastic disk”, *Journal of Fluid Mechanics* (under review), [[arXiv:2607.19561](https://arxiv.org/abs/2607.19561)].
 1. **P. R. Kaneelil**, K. J. Hon, D. Recco, N. Thatte, G. Diafflisio, P. E. Hammer, L. Mahadevan, S. Emani, “Parametric Engineering of Living Valve Transplants”, *Proceedings of the National Academy of Sciences* (under review), [[bioRxiv](https://doi.org/10.64898/2026.06.16.732756)].
 1. **P. R. Kaneelil**, K. Tojo, P. Kumar Farsoiya, L. Deike, H. A. Stone, “Coalescence of viscoelastic sessile drops: the small and large contact angle limits”, *Journal of Fluid Mechanics*, 1026, A12 (2026).
