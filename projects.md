@@ -46,6 +46,8 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 We showed that surface tension regulates the morphology of a bacterial colony growing at an air–solid interface, controlling its transition from a monolayer to a multilayer.
 
+![Sketch of E. coli in a thin water film on an agarose gel, and microscope images of an isolated colony and a large colony showing the monolayer-to-multilayer transition](/assets/img/research-active.png){: .research-fig }
+
 **References:**
 
 - A. Ramachandran\*, **P. R. Kaneelil**\*, M. Black, Z. Gitai, J. Shaevitz, H. A. Stone, “Surface tension regulates the morphological evolution of a growing bacterial colony at an air–solid interface”, *Bulletin of the American Physical Society*, 67 (2022). (\*Equal contribution)
