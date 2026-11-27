@@ -38,8 +38,8 @@ My research has mainly spanned three types of interfaces across a wide range of 
 
 **References:**
 
-- **P. R. Kaneelil**, S. Yin, L. Mahadevan, “Pattern formation in whirling sheets and spinning skirts”, submitted.
-- S. Yin, **P. R. Kaneelil**, L. Mahadevan, “Elastohydrodynamic instability of a spinning elastic disk”, *Journal of Fluid Mechanics* (under review), [[arXiv:2607.19561](https://arxiv.org/abs/2607.19561)].
+- **P. R. Kaneelil**, S. Yin, L. Mahadevan, “Dancing dervishes, spinning skirts, and whirling waves”, *under review*, [[arXiv:2611.33429](https://arxiv.org/abs/2611.33429)].
+- S. Yin, **P. R. Kaneelil**, L. Mahadevan, “Elastohydrodynamic instability of a spinning elastic disk”, *under review*, [[arXiv:2607.19561](https://arxiv.org/abs/2607.19561)].
 - **P. R. Kaneelil**\*, K. J. Hon\*, D. Recco, N. Thatte, G. Diafflisio, P. E. Hammer, L. Mahadevan, S. Emani, “Parametric Engineering of Living Valve Transplants”, *Proceedings of the National Academy of Sciences* (under review), [[bioRxiv](https://doi.org/10.64898/2026.06.16.732756)]. (\*Equal contribution)
 
 ## III. Active interfaces
